@@ -19,7 +19,7 @@
 	Exibindo ícones:
 </p>	
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeDTNA&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 <p>
