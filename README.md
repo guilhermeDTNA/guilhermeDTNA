@@ -6,7 +6,7 @@
 
 
 <h4>
-	Habilidades:
+	Habilidades e Virtudes:
 </h4>
 
 <ul>
@@ -20,7 +20,8 @@
 </h4>	
 
 <ul>
-	<li></li>
+	<li><img src="react-brands.svg" width="50" height="50"></li>
+	<li><img src="html5-brands.svg" width="50" height="50"></li>
 </ul>
 
 <h4>
