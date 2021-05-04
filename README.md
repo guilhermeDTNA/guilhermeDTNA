@@ -23,19 +23,19 @@
 	<table align="center">
 		<tbody>
 			<tr>
-				<td><img src="html5-brands.svg" width="40" height="40" title="HTML5"></td>
-				<td><img src="css3-alt-brands.svg" width="40" height="40" title="CSS3"></td>
-				<td><img src="js-brands.svg" width="40" height="40" title="JavaScript"></td>
+				<td><img src="html5-brands.svg" width="50" height="50" title="HTML5"></td>
+				<td><img src="css3-alt-brands.svg" width="50" height="50" title="CSS3"></td>
+				<td><img src="js-brands.svg" width="50" height="50" title="JavaScript"></td>
 			</tr>
 			<tr>
-				<td><img src="php-brands.svg" width="40" height="40" title="PHP"></td>
-				<td><img src="java-brands.svg" width="40" height="40" title="Java"></td>
-				<td><img src="react-brands.svg" width="40" height="40" title="ReactJS e React Native"></td>
+				<td><img src="php-brands.svg" width="50" height="50" title="PHP"></td>
+				<td><img src="java-brands.svg" width="50" height="50" title="Java"></td>
+				<td><img src="react-brands.svg" width="50" height="50" title="ReactJS e React Native"></td>
 			</tr>
 			<tr>
-				<td><img src="wordpress-brands.svg" width="40" height="40" title="WordPress"></td>
-				<td><img src="joomla-brands.svg" width="40" height="40" title="Joomla"></td>
-				<td><img src="docker-brands.svg" width="40" height="40" title="Docker"></td>
+				<td><img src="wordpress-brands.svg" width="50" height="50" title="WordPress"></td>
+				<td><img src="joomla-brands.svg" width="50" height="50" title="Joomla"></td>
+				<td><img src="docker-brands.svg" width="50" height="50" title="Docker"></td>
 			</tr>
 		</tbody>
 	</table>
@@ -53,7 +53,7 @@
 	<li>⚽ Futebol</li>
 </ul>
 
-<h5>Estatísticas Gerais:</h5>
+<h4>Estatísticas Gerais:</h4>
 
 <p align="center">
 	<a href="#">
@@ -65,7 +65,7 @@
 	</a>
 </p>
 
-<h5>Linguagens:</h5>
+<h4>Linguagens:</h4>
 
 <p align="center">
 	<a href="#">
@@ -77,7 +77,7 @@
 	</a>
 </p>
 
-<h5>Atividade Semanal:</h5>
+<h4>Atividade Semanal:</h4>
 
 <p align="center">
 	<a href="#">
