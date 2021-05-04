@@ -1,4 +1,4 @@
-# Olá! Meu nome é Guilherme
+# Olá! Meu nome é Guilherme.
 
 <h3>É um prazer recebê-lo em meu GitHub e gostaria de convidá-lo a visitar meu perfil nas redes sociais:</h3>
 
