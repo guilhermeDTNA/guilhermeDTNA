@@ -40,7 +40,7 @@
 		<img
 		align="center"
 		height="165"
-		src="https://github-readme-stats.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=2%&locale=pt-br"
+		src="https://github-readme-stats.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
 		/>
 	</a>
 </p>
@@ -51,7 +51,7 @@
 		<img
 		lign="center"
 		height="165"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeDTNA&layout=compact&locale=pt-br"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br"
 		/>
 	</a>
 </p>
@@ -61,7 +61,12 @@
 <h5>Atividade semanal:</h5>
 
 <p align="center">
-
-	![Minhas estatísticas no Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA)
+	<a href="#">
+		<img
+		lign="center"
+		height="165"
+		src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%"
+		/>
+	</a>
 
 </p>
