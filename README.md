@@ -18,12 +18,11 @@
 </p>
 
 <p>
-	Dashboard do Wakatime sobre as linguagens (Temas disponíveis em: <a href="https://github.com/anuraghazra/github-readme-stats#themes">https://github.com/anuraghazra/github-readme-stats#themes</a>):
-
+Atividade semanal:
 </p>
+
+<p align="center">
 
 ![Minhas estatísticas no Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA)
 
-<footer>
-	Tutorial completo em: <a href="https://github.com/anuraghazra/github-readme-stats#themes">https://github.com/anuraghazra/github-readme-stats#themes</a>
-</footer>
+</p>
