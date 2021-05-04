@@ -4,6 +4,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rocha-leite/)](https://www.linkedin.com/in/guilherme-rocha-leite/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/guilherme.rochaleite.9/)](https://www.facebook.com/guilherme.rochaleite.9/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.dtna/)](https://www.instagram.com/guilherme.dtna/)  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC28bAjWwKIosH8iZDhT1YEw)](https://www.youtube.com/channel/UC28bAjWwKIosH8iZDhT1YEw)
 
+<h4>
+	Sobre mim:
+</h4>
+
+<p>
+Tenho 23 anos e sou mineiro de Diamantina. Graças aos meus pais sou muito ligado ao campo e à roça e os aproveito para descansar e realizar atividades atípicas, tornando meu dia a dia na cidade mais proveitoso e propenso a estudos e trabalho. Em contrapartida às minhas raízes, iniciei e permaneço no caminho do desenvolvimento de software com o intuito de aperfeiçoar cada vez mais a qualidade de minhas aplicações e me tornar um desenvolvedor mais completo a cada oportunidade.
+</p>
+
+<p>Para mais detalhes sobre minha personalidade, acesse <a href="https://guilhermerocha.tk">meu portfólio</a> ou <a href="https://guilhermedtna.github.io/">minha página do GitHub</a>.</p>
 
 <h4>
 	Habilidades e Virtudes:
