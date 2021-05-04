@@ -36,14 +36,25 @@
 </ul>
 
 <p align="center">
-
-![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=2%&locale=pt-br)
-
+	<a href="#">
+		<img
+		align="center"
+		height="165"
+		src="https://github-readme-stats.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=2%&locale=pt-br"
+		/>
+	</a>
 </p>
 
-<p align="center">
 
-![Minhas linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeDTNA&layout=compact&locale=pt-br)
+<p align="center">
+	<a href="#">
+		<img
+		lign="center"
+		height="165"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeDTNA&layout=compact&locale=pt-br"
+		/>
+	</a>
+</p>
 
 </p>
 
@@ -51,6 +62,6 @@
 
 <p align="center">
 
-![Minhas estatísticas no Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA)
+	![Minhas estatísticas no Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA)
 
 </p>
