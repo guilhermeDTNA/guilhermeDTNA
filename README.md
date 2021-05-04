@@ -20,8 +20,15 @@
 </h4>	
 
 <ul>
-	<li><img src="react-brands.svg" width="50" height="50"></li>
-	<li><img src="html5-brands.svg" width="50" height="50"></li>
+	<li><img src="js-brands.svg" width="40" height="40"></li>
+	<li><img src="html5-brands.svg" width="40" height="40"></li>
+	<li><img src="css3-alt-brands.svg" width="40" height="40"></li>
+	<li><img src="php-brands.svg" width="40" height="40"></li>
+	<li><img src="react-brands.svg" width="40" height="40"></li>
+	<li><img src="wordpress-brands.svg" width="40" height="40"></li>
+	<li><img src="java-brands.svg" width="40" height="40"></li>
+	<li><img src="joomla-brands.svg" width="40" height="40"></li>
+	<li><img src="docker-brands.svg" width="40" height="40"></li>
 </ul>
 
 <h4>
