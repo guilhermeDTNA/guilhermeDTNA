@@ -19,25 +19,27 @@
 	Ferramentas e Linguagens:
 </h4>	
 
-<table>
-	<tbody>
-		<tr>
-			<td><img src="html5-brands.svg" width="40" height="40" alt="HTML5"></td>
-			<td><img src="css3-alt-brands.svg" width="40" height="40" alt="CSS3"></td>
-			<td><img src="js-brands.svg" width="40" height="40" alt="JavaScript"></td>
-		</tr>
-		<tr>
-			<td><img src="php-brands.svg" width="40" height="40" alt="PHP"></td>
-			<td><img src="java-brands.svg" width="40" height="40" alt="Java"></td>
-			<td><img src="react-brands.svg" width="40" height="40" alt="ReactJS e React Native"></td>
-		</tr>
-		<tr>
-			<td><img src="wordpress-brands.svg" width="40" height="40" alt="WordPress"></td>
-			<td><img src="joomla-brands.svg" width="40" height="40" alt="Joomla"></td>
-			<td><img src="docker-brands.svg" width="40" height="40" alt="Docker"></td>
-		</tr>
-	</tbody>
-</table>
+<p align="center">
+	<table align="center">
+		<tbody>
+			<tr>
+				<td><img src="html5-brands.svg" width="40" height="40" title="HTML5"></td>
+				<td><img src="css3-alt-brands.svg" width="40" height="40" title="CSS3"></td>
+				<td><img src="js-brands.svg" width="40" height="40" title="JavaScript"></td>
+			</tr>
+			<tr>
+				<td><img src="php-brands.svg" width="40" height="40" title="PHP"></td>
+				<td><img src="java-brands.svg" width="40" height="40" title="Java"></td>
+				<td><img src="react-brands.svg" width="40" height="40" title="ReactJS e React Native"></td>
+			</tr>
+			<tr>
+				<td><img src="wordpress-brands.svg" width="40" height="40" title="WordPress"></td>
+				<td><img src="joomla-brands.svg" width="40" height="40" title="Joomla"></td>
+				<td><img src="docker-brands.svg" width="40" height="40" title="Docker"></td>
+			</tr>
+		</tbody>
+	</table>
+</p>
 
 <h4>
 	Hobbies:
