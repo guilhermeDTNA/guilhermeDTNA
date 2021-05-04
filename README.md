@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Número+de+Visualizações:)
+
 # Olá! Meu nome é Guilherme.
 
 <h3>É um prazer recebê-lo em meu GitHub e gostaria de convidá-lo a visitar meu perfil nas redes sociais:</h3>
