@@ -19,17 +19,25 @@
 	Ferramentas e Linguagens:
 </h4>	
 
-<ul>
-	<li><img src="js-brands.svg" width="40" height="40"></li>
-	<li><img src="html5-brands.svg" width="40" height="40"></li>
-	<li><img src="css3-alt-brands.svg" width="40" height="40"></li>
-	<li><img src="php-brands.svg" width="40" height="40"></li>
-	<li><img src="react-brands.svg" width="40" height="40"></li>
-	<li><img src="wordpress-brands.svg" width="40" height="40"></li>
-	<li><img src="java-brands.svg" width="40" height="40"></li>
-	<li><img src="joomla-brands.svg" width="40" height="40"></li>
-	<li><img src="docker-brands.svg" width="40" height="40"></li>
-</ul>
+<table>
+	<tbody>
+		<tr>
+			<td><img src="html5-brands.svg" width="40" height="40" alt="HTML5"></td>
+			<td><img src="css3-alt-brands.svg" width="40" height="40" alt="CSS3"></td>
+			<td><img src="js-brands.svg" width="40" height="40" alt="JavaScript"></td>
+		</tr>
+		<tr>
+			<td><img src="php-brands.svg" width="40" height="40" alt="PHP"></td>
+			<td><img src="java-brands.svg" width="40" height="40" alt="Java"></td>
+			<td><img src="react-brands.svg" width="40" height="40" alt="ReactJS e React Native"></td>
+		</tr>
+		<tr>
+			<td><img src="wordpress-brands.svg" width="40" height="40" alt="WordPress"></td>
+			<td><img src="joomla-brands.svg" width="40" height="40" alt="Joomla"></td>
+			<td><img src="docker-brands.svg" width="40" height="40" alt="Docker"></td>
+		</tr>
+	</tbody>
+</table>
 
 <h4>
 	Hobbies:
@@ -43,6 +51,8 @@
 	<li>⚽ Futebol</li>
 </ul>
 
+<h5>Estatísticas Gerais:</h5>
+
 <p align="center">
 	<a href="#">
 		<img
@@ -53,6 +63,7 @@
 	</a>
 </p>
 
+<h5>Linguagens:</h5>
 
 <p align="center">
 	<a href="#">
@@ -64,9 +75,7 @@
 	</a>
 </p>
 
-</p>
-
-<h5>Atividade semanal:</h5>
+<h5>Atividade Semanal:</h5>
 
 <p align="center">
 	<a href="#">
