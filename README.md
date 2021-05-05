@@ -83,7 +83,7 @@ Tenho 23 anos e sou mineiro de Diamantina. Graças aos meus pais sou muito ligad
 <p align="center">
 	<a href="#">
 		<img
-		lign="center"
+		align="center"
 		height="165"
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br"
 		/>
@@ -95,9 +95,9 @@ Tenho 23 anos e sou mineiro de Diamantina. Graças aos meus pais sou muito ligad
 <p align="center">
 	<a href="#">
 		<img
-		lign="center"
+		align="center"
 		height="165"
-		src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%"
+		src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%&v=2"
 		/>
 	</a>
 
