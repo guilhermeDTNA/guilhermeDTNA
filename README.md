@@ -16,7 +16,7 @@ Tenho 23 anos e sou mineiro de Diamantina. Graças aos meus pais sou muito ligad
 
 <p>Sobre minha formação: sou técnico em informática, formado em 2014, e estudante do 10º período do curso de Sistemas de Informação, na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Possuo cursos e certificados, que podem ser acessados em: <a href="https://guilhermerocha.tk/#certificados">https://guilhermerocha.tk/#certificados</a> e atualmente busco por oportunidades na área de desenvolvimento web/mobile, para estágio ou efetivo, mas estou aberto a conversar sobre qualquer proposta.</p>
 
-<p>Para mais detalhes sobre minha personalidade, acesse <a href="https://guilhermerocha.tk">meu portfólio</a> ou <a href="https://guilhermedtna.github.io/">minha página do GitHub</a>.</p>
+<p>Para mais detalhes sobre mim, acesse <a href="https://guilhermerocha.tk">meu portfólio</a> ou <a href="https://guilhermedtna.github.io/">minha página do GitHub</a>.</p>
 
 <h4>
 	Habilidades e Virtudes:
