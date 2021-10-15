@@ -93,12 +93,14 @@ Tenho 23 anos e sou mineiro de Diamantina. Graças aos meus pais sou muito ligad
 <h4>Atividade Semanal:</h4>
 
 <p align="center">
-	<a href="https://wakatime.com/@guilhermeDTNA" target="_blank">
+	<a href="https://wakatime.com/@guilhermeDTNA" target="_blank" title="Acessar meu perfil no Wakatime">
 		<img
 		align="center"
 		height="165"
 		src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%&v=2"
 		/>
+
+		[![wakatime](https://wakatime.com/badge/user/e00141c8-da3e-4eba-9de1-ea951a69afcf.svg)](https://wakatime.com/@e00141c8-da3e-4eba-9de1-ea951a69afcf)
 	</a>
 
 </p>
