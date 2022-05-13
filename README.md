@@ -14,11 +14,11 @@
 Tenho 24 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona de casa, que me incentivaram a estudar desde cedo, decidi dedicar-me à computação por influência de meu irmão e permaneço no caminho do desenvolvimento de software, com o intuito de aperfeiçoar cada vez mais a qualidade de minhas aplicações e me tornar um desenvolvedor mais completo a cada oportunidade.
 </p>
 
-<p>Sobre minha formação: sou técnico em informática, formado em 2014, e em 2022 me tornei bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Também possuo cursos e certificados, que podem ser acessados em: <a href="https://guilhermerocha.000webhostapp.com/#certificados">https://guilhermerocha.000webhostapp.com/#certificados</a>.</p>
+<p>Sobre minha formação: sou técnico em informática, formado em 2014, e em 2022 me tornei bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Também possuo cursos e certificados, que podem ser acessados em: <a href="https://guilhermerocha.dev.br/index.php#certificados">https://guilhermerocha.dev.br/index.php#certificados</a>.</p>
 
 <p>Atualmente trabalho no desenvolvimento web com as linguagens: HTML, CSS e JavaScript, as bibliotecas: Vanilla JS e JQuery, e com as plataformas de e-commerce: VTEX, Shopify e Loja Integrada. Contudo possuo conhecimento em PHP, SQL, React JS, Bootstrap e outras tecnologias.</p>
 
-<p>Para mais detalhes sobre mim, acesse <a href="https://guilhermerocha.000webhostapp.com/">meu portfólio</a> ou <a href="https://guilhermedtna.github.io/">minha página do GitHub</a>.</p>
+<p>Para mais detalhes sobre mim, acesse <a href="https://guilhermerocha.dev.br/">meu portfólio</a> ou <a href="https://guilhermedtna.github.io/">minha página do GitHub</a>.</p>
 
 <h4>
 	Habilidades e Virtudes:
