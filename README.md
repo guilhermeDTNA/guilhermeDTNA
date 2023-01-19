@@ -75,7 +75,7 @@ Tenho 24 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 		<img
 		align="center"
 		height="165"
-		src="https://github-readme-stats.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
+		src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
 		/>
 	</a>
 </p>
@@ -87,7 +87,7 @@ Tenho 24 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 		<img
 		align="center"
 		height="100%"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br"
+		src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br"
 		/>
 	</a>
 </p>
