@@ -108,7 +108,7 @@ Tenho 24 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
         <thead>
             <tr>
                 <th>
-                    <h4>Ferramentas e Linguagens:</h4>
+                    <h4>Tecnologias:</h4>
                 </th>
                 <th>
                     <h4>Atividade Semanal:</h4>
