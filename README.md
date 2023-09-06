@@ -1,6 +1,10 @@
-![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Número+de+Visualizações:)
+<div align=center>
+	
+![Header](./github-header-image-2.png)
 
-# Olá! Meu nome é Guilherme.
+</div>
+
+![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Número+de+Visualizações:)
 
 <h3 align="center">Será um prazer receber sua visita em meus perfis nas redes sociais:</h3>
 <div align="center">
