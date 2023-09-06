@@ -6,15 +6,16 @@
 
 ![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Número+de+Visualizações:)
 
-<h3 align="center">Será um prazer receber sua visita em meus perfis nas redes sociais:</h3>
+<h3 align="center" margin="5px">Será um prazer receber sua visita em meus perfis nas redes sociais: <br />It will be a pleasure to receive your visit on my profile on social networks:</h3>
+
 <div align="center">
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rocha-leite/)](https://www.linkedin.com/in/guilherme-rocha-leite/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/guilherme.rochaleite.9/)](https://www.facebook.com/guilherme.rochaleite.9/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.dtna/)](https://www.instagram.com/guilherme.dtna/)  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC28bAjWwKIosH8iZDhT1YEw)](https://www.youtube.com/channel/UC28bAjWwKIosH8iZDhT1YEw) 
 	
 </div>
-<br />
+
 <h4>
-	Sobre mim:
+	🇧🇷️ Sobre mim:
 </h4>
 
 <p>
@@ -23,19 +24,37 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 
 <p>Sobre minha formação: sou técnico em informática, formado em 2014, e em 2022 me tornei bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Também possuo cursos e certificados, que podem ser acessados em: <a href="https://guilhermerocha.dev.br/index.php#certificados">https://guilhermerocha.dev.br/index.php#certificados</a>.</p>
 
-<p>Atualmente trabalho no desenvolvimento web com as linguagens: HTML, CSS e JavaScript, as bibliotecas: Vanilla JS e JQuery, e com as plataformas de e-commerce: VTEX, Shopify e Loja Integrada. Contudo possuo conhecimento em PHP, SQL, React JS, Bootstrap e outras tecnologias.</p>
+<p>Atualmente trabalho no desenvolvimento web com as linguagens: <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, as bibliotecas: <strong>Vanilla JS</strong> e <strong>JQuery</strong>, e com as plataformas de e-commerce: <strong>VTEX (IO e CMS)</strong>, <strong>Shopify</strong> e <strong>Loja Integrada</strong>. Contudo possuo conhecimento em <strong>PHP</strong>, <strong>SQL</strong>, <strong>React JS</strong>, <strong>Node JS</strong>, <strong>Bootstrap</strong> e outras tecnologias.</p>
 
-<p>Para mais detalhes sobre mim, acesse <a href="https://guilhermerocha.dev.br/">meu portfólio</a> ou <a href="https://guilhermedtna.github.io/">minha página do GitHub</a>.</p>
+<p>Para mais detalhes sobre mim, acesse <a href="https://guilhermerocha.dev.br/" target="_blank">meu portfólio</a>.</p>
 
 <br />
 
+<h4>
+    🇺🇲️ About me:
+</h4>
+
+<p>
+    I'm 25 years old and I was born in Diamantina, a town located in Brazil. I'm son of a carpenter and a housewife, who encouraged me to study from an early age, and decided to dedicate to computing by influence of my older brother. I stay in the software development way, in order to improve more and more the quality of my applications and to become a most complete developer in each opportunity.
+</p>
+
+<p>
+    About my education: I'm Computer Technician, graduated in 2014, and became a bachelor in Information Systems in 2022 from the Federal University of Jequitinhonha and Mucuri Valleys (UFVJM). I also have others certificates and courses in my curriculum, which can be accessed at: https://guilhermerocha.dev.br/index.php#certificados.
+</p>
+
+<p>
+    At the moment, I work on web development with the languages: <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>, the libraries: <strong>Vanilla JS</strong> and <strong>JQuery</strong>, and with the ecommerce platforms: <strong>VTEX (IO and CMS)</strong>, <strong>Shopify</strong> and <strong>Loja Integrada</strong>. However I have knowledge of <strong>PHP</strong>, <strong>SQL</strong>, <strong>React JS</strong>, <strong>Node JS</strong>, <strong>Bootstrap</strong> and others technologies.
+</p>
+
+<p>Visit <a target="_blank" href="https://guilhermerocha.dev.br/">my portfolio</a> for more details about me.
+
 <div align="center">
-	<table>
+	<table width="100vh">
 	    <thead>
             <tr>
                 <th width=250>
                     <h4>
-                        Habilidades e Virtudes:
+                        Habilidades e Virtudes: / Skills:
                     </h4>
                 </th>
                 <th width=250>
@@ -49,18 +68,18 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
             <tr>
                 <td width=450>
                     <ul>
-                        <li>👨🏻‍💻 Desenvolvimento de Software | Web</li>
-                        <li>📝 Comunicação Escrita</li>
-                        <li>😃 Agradável e de Ótimo Relacionamento Interpessoal</li>
+                        <li>👨🏻‍💻 Desenvolvimento de Software | Web / Software Development</li>
+                        <li>📝 Comunicação Escrita / Written Communication</li>
+                        <li>😃 Agradável e de Ótimo Relacionamento Interpessoal / Pleasant and Great Interpersonal Relationship</li>
                     </ul>
                 </td>
                 <td width=450>
                     <ul>
-                        <li>🏃‍♂️ Correr</li>
-                        <li>💻 Programar</li>
-                        <li>🇬🇧 | 🇺🇸 Estudar Inglês</li>
-                        <li>🎵 | 🎸 Música e Violão</li>
-                        <li>⚽ Futebol</li>
+                        <li>🏃‍♂️ Correr / Go for a run</li>
+                        <li>💻 Programar / Coding</li>
+                        <li>🇬🇧 | 🇺🇸 Estudar Inglês / Study English</li>
+                        <li>🎵 | 🎸 Música e Violão / Music and Acoustic Guitar</li>
+                        <li>⚽ Futebol / Football</li>
                     </ul>
                 </td>
             </tr>
@@ -69,53 +88,14 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 </div>
 
 <div align="center">
-	<table>
-        <thead>
-            <th>
-                <h4>Estatísticas Gerais:</h4>
-            </th>
-            <th>
-                <h4>Linguagens:</h4>
-            </th>
-        </thead>
-        <tbody>
-            <tr>
-                <td width=450>
-                    <p align="center">
-                        <a href="#">
-                            <img
-                            align="center"
-                            height="165"
-                            src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
-                            />
-                        </a>
-                    </p>
-                </td>
-                <td width=450>
-                    <p align="center">
-                        <a href="#">
-                            <img
-                            align="center"
-                            height="100%"
-                            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br"
-                            />
-                        </a>
-                    </p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-<div align="center">
-    <table width=100vw>
+    <table width="100vw">
         <thead>
             <tr>
                 <th>
-                    <h4>Tecnologias:</h4>
+                    <h4>Tecnologias / Technologies:</h4>
                 </th>
                 <th>
-                    <h4>Atividade Semanal:</h4>
+                    <h4>Atividade Semanal / Weekly Activity:</h4>
                 </th>
             </tr>
         <thead>
@@ -160,9 +140,26 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     </table>
 </div>
 
+<div align="center">
+    <a href="#">
+        <img
+        align="center"
+        height="165"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
+        />
+    </a>
+    <a href="#">
+        <img
+        align="center"
+        height="100%"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br"
+        />
+    </a>
+</div>
+
 
 <div align="center">
-<h4>Tempo total de codificação registrado pelo Wakatime:</h4>
+<h4>Tempo total de codificação registrado pelo Wakatime:<br />Development time registered by Wakatime:</h4>
 	
 [![wakatime](https://wakatime.com/badge/user/e00141c8-da3e-4eba-9de1-ea951a69afcf.svg)](https://wakatime.com/@e00141c8-da3e-4eba-9de1-ea951a69afcf)
 </div>
