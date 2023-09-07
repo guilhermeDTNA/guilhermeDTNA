@@ -4,7 +4,9 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Número+de+Visualizações:)
+<div align="left">
+    <img width=60 src="./linux_programming.gif">
+</div>
 
 <h3 align="center" margin="5px">Será um prazer receber sua visita em meus perfis nas redes sociais: <br />It will be a pleasure to receive your visit on my profile on social networks:</h3>
 
@@ -157,9 +159,14 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     </a>
 </div>
 
-
 <div align="center">
 <h4>Tempo total de codificação registrado pelo Wakatime:<br />Development time registered by Wakatime:</h4>
 	
 [![wakatime](https://wakatime.com/badge/user/e00141c8-da3e-4eba-9de1-ea951a69afcf.svg)](https://wakatime.com/@e00141c8-da3e-4eba-9de1-ea951a69afcf)
 </div>
+
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Views:)
+
+<div>
