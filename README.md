@@ -131,7 +131,7 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                         <a href="https://wakatime.com/@guilhermeDTNA" target="_blank" title="Acessar meu perfil no Wakatime">
                             <img
                             align="center"
-                            height="196"
+                            height="245"
                             src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%&v=2"
                             />
                         </a>
