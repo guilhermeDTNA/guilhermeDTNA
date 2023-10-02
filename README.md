@@ -30,8 +30,6 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 
 <p>Para mais detalhes sobre mim, acesse <a href="https://guilhermerocha.dev.br/" target="_blank">meu portfólio</a>.</p>
 
-<br />
-
 <h4>
     🇺🇲️ About me:
 </h4>
@@ -48,7 +46,9 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     At the moment, I work on web development with the languages: <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>, the libraries: <strong>Vanilla JS</strong> and <strong>JQuery</strong>, and with the ecommerce platforms: <strong>VTEX (IO and CMS)</strong>, <strong>Shopify</strong> and <strong>Loja Integrada</strong>. However I have knowledge of <strong>PHP</strong>, <strong>SQL</strong>, <strong>React JS</strong>, <strong>Node JS</strong>, <strong>Bootstrap</strong> and others technologies.
 </p>
 
-<p>Visit <a target="_blank" href="https://guilhermerocha.dev.br/">my portfolio</a> for more details about me.
+<p>Visit <a target="_blank" href="https://guilhermerocha.dev.br/">my portfolio</a> for more details about me.</p>
+
+<br>
 
 <div align="center">
 	<table width="100vh">
