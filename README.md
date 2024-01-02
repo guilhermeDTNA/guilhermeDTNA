@@ -108,19 +108,19 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                         <table align="center">
                             <tbody>
                                 <tr>
-                                    <td><img src="html5-brands.svg" width="50" height="50" title="HTML5"></td>
-                                    <td><img src="css3-alt-brands.svg" width="50" height="50" title="CSS3"></td>
-                                    <td><img src="js-brands.svg" width="50" height="50" title="JavaScript"></td>
+                                    <td><img src="html5-brands.svg" width="100" height="50" title="HTML5"></td>
+                                    <td><img src="css3-alt-brands.svg" width="100" height="50" title="CSS3"></td>
+                                    <td><img src="js-brands.svg" width="100" height="50" title="JavaScript"></td>
                                 </tr>
                                 <tr>
-				    <td><img src="vtex.svg" width="50" height="50" title="VTEX"></td>
-                                    <td><img src="shopify.svg" width="50" height="50" title="Shopify"></td>
-                                    <td><img src="react-brands.svg" width="50" height="50" title="ReactJS e React Native"></td>
+				    <td><img src="vtex.svg" width="100" height="50" title="VTEX"></td>
+                                    <td><img src="shopify.svg" width="100" height="50" title="Shopify"></td>
+                                    <td><img src="react-brands.svg" width="100" height="50" title="ReactJS e React Native"></td>
                                 </tr>
                                 <tr>
-				    <td><img src="php-brands.svg" width="50" height="50" title="PHP"></td>
-                                    <td><img src="wordpress-brands.svg" width="50" height="50" title="WordPress"></td>
-                                    <td><img src="java-brands.svg" width="50" height="50" title="Java"></td>
+				    <td><img src="php-brands.svg" width="100" height="50" title="PHP"></td>
+                                    <td><img src="wordpress-brands.svg" width="100" height="50" title="WordPress"></td>
+                                    <td><img src="java-brands.svg" width="100" height="50" title="Java"></td>
                                 </tr>
                             </tbody>
                         </table>
