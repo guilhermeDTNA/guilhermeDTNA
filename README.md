@@ -113,14 +113,14 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                                     <td><img src="js-brands.svg" width="50" height="50" title="JavaScript"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="php-brands.svg" width="50" height="50" title="PHP"></td>
-                                    <td><img src="java-brands.svg" width="50" height="50" title="Java"></td>
+				    <td><img src="vtex.svg" width="50" height="50" title="VTEX"></td>
+                                    <td><img src="shopify.svg" width="50" height="50" title="Shopify"></td>
                                     <td><img src="react-brands.svg" width="50" height="50" title="ReactJS e React Native"></td>
                                 </tr>
                                 <tr>
+				    <td><img src="php-brands.svg" width="50" height="50" title="PHP"></td>
                                     <td><img src="wordpress-brands.svg" width="50" height="50" title="WordPress"></td>
-                                    <td><img src="joomla-brands.svg" width="50" height="50" title="Joomla"></td>
-                                    <td><img src="docker-brands.svg" width="50" height="50" title="Docker"></td>
+                                    <td><img src="java-brands.svg" width="50" height="50" title="Java"></td>
                                 </tr>
                             </tbody>
                         </table>
