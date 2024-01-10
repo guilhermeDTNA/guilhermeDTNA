@@ -114,7 +114,7 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                                 </tr>
                                 <tr>
 				    <td><img src="vtex.svg" width="100" height="50" title="VTEX"></td>
-                                    <td><img src="shopify.svg" width="100" height="50" title="Shopify"></td>
+                                    <td><img src="https://raw.githubusercontent.com/guilhermeDTNA/guilhermeDTNA/87b3aaf8b56f2836acf3c59e8d38058a67082771/shopify.svg" width="100" height="50" title="Shopify"></td>
                                     <td><img src="react-brands.svg" width="100" height="50" title="ReactJS e React Native"></td>
                                 </tr>
                                 <tr>
