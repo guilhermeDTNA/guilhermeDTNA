@@ -21,7 +21,7 @@
 </h4>
 
 <p>
-Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona de casa, que me incentivaram a estudar desde cedo, decidi dedicar-me à computação por influência de meu irmão e permaneço no caminho do desenvolvimento de software, com o intuito de aperfeiçoar cada vez mais a qualidade de minhas aplicações e me tornar um desenvolvedor mais completo a cada oportunidade.
+Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona de casa, que me incentivaram a estudar desde cedo, decidi dedicar-me à computação por influência de meu irmão e permaneço no caminho do desenvolvimento de software, com o intuito de aperfeiçoar cada vez mais a qualidade de minhas aplicações e me tornar um desenvolvedor mais completo a cada oportunidade.
 </p>
 
 <p>Sobre minha formação: sou técnico em informática, formado em 2014, e em 2022 me tornei bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Também possuo cursos e certificados, que podem ser acessados em: <a href="https://guilhermerocha.dev.br/index.php#certificados">https://guilhermerocha.dev.br/index.php#certificados</a>.</p>
@@ -35,7 +35,7 @@ Tenho 25 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 </h4>
 
 <p>
-    I'm 25 years old and I was born in Diamantina, a town located in Brazil. I'm son of a carpenter and a housewife, who encouraged me to study from an early age, and decided to dedicate to computing by influence of my older brother. I stay in the software development way, in order to improve more and more the quality of my applications and to become a most complete developer in each opportunity.
+    I'm 26 years old and I was born in Diamantina, a town located in Brazil. I'm son of a carpenter and a housewife, who encouraged me to study from an early age, and decided to dedicate to computing by influence of my older brother. I stay in the software development way, in order to improve more and more the quality of my applications and to become a most complete developer in each opportunity.
 </p>
 
 <p>
