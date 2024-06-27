@@ -54,12 +54,12 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 	<table width="100vh">
 	    <thead>
             <tr>
-                <th width=250>
+                <th width=250 border="none">
                     <h4>
                         Habilidades e Virtudes: / Skills:
                     </h4>
                 </th>
-                <th width=250>
+                <th width=250 border="none">
                     <h4>
                         Hobbies:
                     </h4>
@@ -93,10 +93,10 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     <table width="100vw">
         <thead>
             <tr>
-                <th>
+                <th border="none">
                     <h4>Tecnologias / Technologies:</h4>
                 </th>
-                <th>
+                <th border="none">
                     <h4>Atividade Semanal / Weekly Activity:</h4>
                 </th>
             </tr>
@@ -107,17 +107,17 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                     <p align="center">
                         <table align="center">
                             <tbody>
-                                <tr>
+                                <tr border=0>
                                     <td><img src="html5-brands.svg" width="100" height="50" title="HTML5"></td>
                                     <td><img src="css3-alt-brands.svg" width="100" height="50" title="CSS3"></td>
                                     <td><img src="js-brands.svg" width="100" height="50" title="JavaScript"></td>
                                 </tr>
-                                <tr>
+                                <tr border=0>
 				    <td><img src="vtex.svg" width="100" height="50" title="VTEX"></td>
                                     <td><img src="https://raw.githubusercontent.com/guilhermeDTNA/guilhermeDTNA/87b3aaf8b56f2836acf3c59e8d38058a67082771/shopify.svg" width="100" height="50" title="Shopify"></td>
                                     <td><img src="react-brands.svg" width="100" height="50" title="ReactJS e React Native"></td>
                                 </tr>
-                                <tr>
+                                <tr border=0>
 				    <td><img src="php-brands.svg" width="100" height="50" title="PHP"></td>
                                     <td><img src="wordpress-brands.svg" width="100" height="50" title="WordPress"></td>
                                     <td><img src="java-brands.svg" width="100" height="50" title="Java"></td>
@@ -132,7 +132,7 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                             <img
                             align="center"
                             height="245"
-                            src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%&v=2"
+                            src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermeDTNA&border_radius=5%&v=2&hide_border=true"
                             />
                         </a>
                     </p>
@@ -141,22 +141,35 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
         </tbody>
     </table>
 </div>
-
 <div align="center">
-    <a href="#">
-        <img
-        align="center"
-        height="165"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
-        />
-    </a>
-    <a href="#">
-        <img
-        align="center"
-        height="100%"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br"
-        />
-    </a>
+	<table width="100vw">
+		<tbody>
+			<tr>
+				<td width=450>
+					<h4>
+						<a href="#">
+						        <img
+						        align="center"
+						        height="165"
+						        src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
+						        />
+						    </a>
+					</h4>
+				</td>
+				<td width=450>
+					<h4>
+						<a href="#">
+						        <img
+						        align="center"
+						        height="100%"
+						        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br&hide_border=true"
+						        />
+					   	</a>
+					</h4>	
+				</td>
+			</tr>
+		</tbody>
+  	</table>
 </div>
 
 <div align="center">
