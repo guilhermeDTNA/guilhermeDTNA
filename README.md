@@ -1,5 +1,5 @@
 <div align=center>
-	
+    
 ![Header](./github-header-image-2.png)
 
 </div>
@@ -11,13 +11,13 @@
 <h3 align="center" margin="5px">Será um prazer receber sua visita em meus perfis nas redes sociais: <br />It will be a pleasure to receive your visit on my profile on social networks:</h3>
 
 <div align="center">
-	
+    
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rocha-leite/)](https://www.linkedin.com/in/guilherme-rocha-leite/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/guilherme.rocha.dtna/)](https://www.facebook.com/guilherme.rocha.dtna/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.dtna/)](https://www.instagram.com/guilherme.dtna/)  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC28bAjWwKIosH8iZDhT1YEw)](https://www.youtube.com/channel/UC28bAjWwKIosH8iZDhT1YEw) 
-	
+    
 </div>
 
 <h4>
-	🇧🇷️ Sobre mim:
+    🇧🇷️ Sobre mim:
 </h4>
 
 <p>
@@ -51,8 +51,8 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 <br>
 
 <div align="center">
-	<table width="100vh">
-	    <thead>
+    <table width="100vh">
+        <thead>
             <tr>
                 <th width=250>
                     <h4>
@@ -65,8 +65,8 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                     </h4>
                 </th>
             </tr>
-	    </thead>
-	    <tbody>
+        </thead>
+        <tbody>
             <tr>
                 <td width=450>
                     <ul>
@@ -85,8 +85,8 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                     </ul>
                 </td>
             </tr>
-	    </tbody>
-	</table>
+        </tbody>
+    </table>
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                     <h4>Atividade Semanal / Weekly Activity:</h4>
                 </th>
             </tr>
-        <thead>
+        </thead>
         <tbody>
             <tr>
                 <td width=450>
@@ -113,12 +113,12 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                                     <td><img src="js-brands.svg" width="100" height="50" title="JavaScript"></td>
                                 </tr>
                                 <tr border=0>
-				    <td><img src="vtex.svg" width="100" height="50" title="VTEX"></td>
+                    <td><img src="vtex.svg" width="100" height="50" title="VTEX"></td>
                                     <td><img src="https://raw.githubusercontent.com/guilhermeDTNA/guilhermeDTNA/87b3aaf8b56f2836acf3c59e8d38058a67082771/shopify.svg" width="100" height="50" title="Shopify"></td>
                                     <td><img src="react-brands.svg" width="100" height="50" title="ReactJS e React Native"></td>
                                 </tr>
                                 <tr border=0>
-				    <td><img src="php-brands.svg" width="100" height="50" title="PHP"></td>
+                    <td><img src="php-brands.svg" width="100" height="50" title="PHP"></td>
                                     <td><img src="wordpress-brands.svg" width="100" height="50" title="WordPress"></td>
                                     <td><img src="java-brands.svg" width="100" height="50" title="Java"></td>
                                 </tr>
@@ -142,39 +142,39 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     </table>
 </div>
 <div align="center">
-	<table width="100vw">
-		<tbody>
-			<tr>
-				<td width=450 align="center">
-					<h4>
-						<a href="#">
-						        <img
-						        align="center"
-						        height="165"
-						        src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
-						        />
-						    </a>
-					</h4>
-				</td>
-				<td width=450 align="center">
-					<h4>
-						<a href="#">
-						        <img
-						        align="center"
-						        height="100%"
-						        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br&hide_border=true"
-						        />
-					   	</a>
-					</h4>	
-				</td>
-			</tr>
-		</tbody>
-  	</table>
+    <table width="100vw">
+        <tbody>
+            <tr>
+                <td width=450 align="center">
+                    <h4>
+                        <a href="#">
+                                <img
+                                align="center"
+                                height="165"
+                                src="https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermeDTNA&count_private=true&show_icons=true&theme=highcontrast&border_radius=5%&locale=pt-br"
+                                />
+                            </a>
+                    </h4>
+                </td>
+                <td width=450 align="center">
+                    <h4>
+                        <a href="#">
+                                <img
+                                align="center"
+                                height="100%"
+                                src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeDTNA&border_radius=5%&layout=compact&locale=pt-br&hide_border=true"
+                                />
+                        </a>
+                    </h4>   
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 <div align="center">
 <h4>Tempo total de codificação registrado pelo Wakatime:<br />Development time registered by Wakatime:</h4>
-	
+    
 [![wakatime](https://wakatime.com/badge/user/e00141c8-da3e-4eba-9de1-ea951a69afcf.svg)](https://wakatime.com/@e00141c8-da3e-4eba-9de1-ea951a69afcf)
 </div>
 
