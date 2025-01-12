@@ -180,6 +180,6 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 
 <div align="right">
 
-![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Views:)
+![](https://komarev.com/ghpvc/?username=guilhermeDTNA&color=blueviolet&style=plastic&label=Profile+views:)
 
 <div>
