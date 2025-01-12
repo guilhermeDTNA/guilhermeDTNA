@@ -54,12 +54,12 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 	<table width="100vh">
 	    <thead>
             <tr>
-                <th width=250 border="none">
+                <th width=250>
                     <h4>
                         Habilidades e Virtudes: / Skills:
                     </h4>
                 </th>
-                <th width=250 border="none">
+                <th width=250>
                     <h4>
                         Hobbies:
                     </h4>
@@ -93,10 +93,10 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     <table width="100vw">
         <thead>
             <tr>
-                <th border="none">
+                <th>
                     <h4>Tecnologias / Technologies:</h4>
                 </th>
-                <th border="none">
+                <th>
                     <h4>Atividade Semanal / Weekly Activity:</h4>
                 </th>
             </tr>
@@ -145,7 +145,7 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 	<table width="100vw">
 		<tbody>
 			<tr>
-				<td width=450>
+				<td width=450 align="center">
 					<h4>
 						<a href="#">
 						        <img
@@ -156,7 +156,7 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 						    </a>
 					</h4>
 				</td>
-				<td width=450>
+				<td width=450 align="center">
 					<h4>
 						<a href="#">
 						        <img
