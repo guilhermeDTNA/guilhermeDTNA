@@ -54,12 +54,12 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     <table width="100vh">
         <thead>
             <tr>
-                <th width=250>
+                <th width="50%">
                     <h4>
                         Habilidades e Virtudes: / Skills:
                     </h4>
                 </th>
-                <th width=250>
+                <th width="50%">
                     <h4>
                         Hobbies:
                     </h4>
@@ -68,14 +68,14 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
         </thead>
         <tbody>
             <tr>
-                <td width=450>
+                <td width="50%">
                     <ul>
                         <li>👨🏻‍💻 Desenvolvimento de Software | Web / Software Development</li>
                         <li>📝 Comunicação Escrita / Written Communication</li>
                         <li>😃 Agradável e de Ótimo Relacionamento Interpessoal / Pleasant and Great Interpersonal Relationship</li>
                     </ul>
                 </td>
-                <td width=450>
+                <td width="50%">
                     <ul>
                         <li>🏃‍♂️ Correr / Go for a run</li>
                         <li>💻 Programar / Coding</li>
@@ -93,17 +93,17 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     <table width="100vw">
         <thead>
             <tr>
-                <th>
+                <th width="50%">
                     <h4>Tecnologias / Technologies:</h4>
                 </th>
-                <th>
+                <th width="50%">
                     <h4>Atividade Semanal / Weekly Activity:</h4>
                 </th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td width=450>
+                <td width="50%">
                     <p align="center">
                         <table align="center">
                             <tbody>
@@ -126,7 +126,7 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                         </table>
                     </p>
                 </td>
-                <td width=450>
+                <td width="50%">
                     <p align="center">
                         <a href="https://wakatime.com/@guilhermeDTNA" target="_blank" title="Acessar meu perfil no Wakatime">
                             <img
@@ -145,7 +145,7 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
     <table width="100vw">
         <tbody>
             <tr>
-                <td width=450 align="center">
+                <td width="50%" align="center">
                     <h4>
                         <a href="#">
                                 <img
@@ -156,7 +156,7 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                             </a>
                     </h4>
                 </td>
-                <td width=450 align="center">
+                <td width="50%" align="center">
                     <h4>
                         <a href="#">
                                 <img
