@@ -109,17 +109,17 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
                             <tbody>
                                 <tr border=0>
                                     <td><img src="html5-brands.svg" width="100" height="50" title="HTML5"></td>
-                                    <td><img src="css3-alt-brands.svg" width="100" height="50" title="CSS3"></td>
+                                    <td><img src="css3-alt-brands.svg" width="100" height="50" title="CSS3 (CSS puro, SASS e Tailwind)"></td>
                                     <td><img src="js-brands.svg" width="100" height="50" title="JavaScript"></td>
                                 </tr>
                                 <tr border=0>
-                    <td><img src="vtex.svg" width="100" height="50" title="VTEX"></td>
-                                    <td><img src="https://raw.githubusercontent.com/guilhermeDTNA/guilhermeDTNA/87b3aaf8b56f2836acf3c59e8d38058a67082771/shopify.svg" width="100" height="50" title="Shopify"></td>
-                                    <td><img src="react-brands.svg" width="100" height="50" title="ReactJS e React Native"></td>
+                                    <td><img src="react-brands.svg" width="100" height="50" title="ReactJS"></td>
+                                    <td><img src="typescript-icon.svg" width="100" height="50" title="TypeScript"></td>
+                                    <td><img src="sql-icon.svg" width="100" height="50" title="SQL"></td>
                                 </tr>
                                 <tr border=0>
-                    <td><img src="php-brands.svg" width="100" height="50" title="PHP"></td>
-                                    <td><img src="wordpress-brands.svg" width="100" height="50" title="WordPress"></td>
+                                    <td><img src="vtex.svg" width="100" height="50" title="VTEX"></td>
+                                    <td><img src="https://raw.githubusercontent.com/guilhermeDTNA/guilhermeDTNA/87b3aaf8b56f2836acf3c59e8d38058a67082771/shopify.svg" width="100" height="50" title="Shopify"></td>
                                     <td><img src="java-brands.svg" width="100" height="50" title="Java"></td>
                                 </tr>
                             </tbody>
