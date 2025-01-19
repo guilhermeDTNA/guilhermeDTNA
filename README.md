@@ -24,9 +24,9 @@
 Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona de casa, que me incentivaram a estudar desde cedo, decidi dedicar-me à computação por influência de meu irmão e permaneço no caminho do desenvolvimento de software, com o intuito de aperfeiçoar cada vez mais a qualidade de minhas aplicações e me tornar um desenvolvedor mais completo a cada oportunidade.
 </p>
 
-<p>Sobre minha formação: sou técnico em informática, formado em 2014, e em 2022 me tornei bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Também possuo cursos e certificados, que podem ser acessados em: <a href="https://guilhermerocha.dev.br/index.php#certificados">https://guilhermerocha.dev.br/index.php#certificados</a>.</p>
+<p>Sobre minha formação: sou técnico em informática, formado em 2014; em 2022 me tornei bacharel em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM); e em 2024 concluí minha pós-graduação Lato Sensu em desenvolvimento full stack, ofertado pela Descomplica. Também possuo outros cursos e certificados, que podem ser acessados em: <a href="https://guilhermerocha.dev.br/index.php#certificados">https://guilhermerocha.dev.br/index.php#certificados</a>.</p>
 
-<p>Atualmente trabalho no desenvolvimento web com as linguagens: <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, as bibliotecas: <strong>Vanilla JS</strong> e <strong>JQuery</strong>, e com as plataformas de e-commerce: <strong>VTEX (IO e CMS)</strong>, <strong>Shopify</strong> e <strong>Loja Integrada</strong>. Contudo ainda possuo conhecimento em  <strong>SQL</strong>, <strong>React JS</strong>, <strong>Node JS</strong>, <strong>PHP</strong>, <strong>Bootstrap</strong> e outras tecnologias.</p>
+<p>Atualmente trabalho no desenvolvimento web com as linguagens/ferramentas: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React JS</strong>, <strong>Tailwind CSS</strong>, <strong>SQL</strong> e <strong>Vanilla JS</strong>. Contudo ainda possuo conhecimento em: <strong>VTEX (IO e CMS)</strong>, <strong>Shopify</strong>, <strong>Node JS</strong>, <strong>PHP</strong>, <strong>Bootstrap</strong> e outras tecnologias.</p>
 
 <p>Para mais detalhes sobre mim, acesse <a href="https://guilhermerocha.dev.br/" target="_blank">meu portfólio</a>.</p>
 
@@ -39,11 +39,11 @@ Tenho 26 anos e sou mineiro de Diamantina. Filho de um carpinteiro e de uma dona
 </p>
 
 <p>
-    About my education: I'm Computer Technician, graduated in 2014, and became a bachelor in Information Systems in 2022 from the Federal University of Jequitinhonha and Mucuri Valleys (UFVJM). I also have others certificates and courses in my curriculum, which can be accessed at: https://guilhermerocha.dev.br/index.php#certificados.
+    About my education: I'm Computer Technician, graduated in 2014; I became a bachelor in Information Systems in 2022 from the Federal University of Jequitinhonha and Mucuri Valleys (UFVJM); and I completed my postgraduate studies in full stack development, offered by Descomplica. I also have others certificates and courses in my curriculum, which can be accessed at: https://guilhermerocha.dev.br/index.php#certificados.
 </p>
 
 <p>
-    At the moment, I work on web development with the languages: <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>, the libraries: <strong>Vanilla JS</strong> and <strong>JQuery</strong>, and with the ecommerce platforms: <strong>VTEX (IO and CMS)</strong>, <strong>Shopify</strong> and <strong>Loja Integrada</strong>. However I have knowledge of  <strong>SQL</strong>, <strong>React JS</strong>, <strong>Node JS</strong>, <strong>PHP</strong>, <strong>Bootstrap</strong> and others technologies.
+    At the moment, I work on web development with the languages/tools: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React JS</strong>, <strong>Tailwind CSS</strong>, <strong>SQL</strong> and <strong>Vanilla JS</strong>. However I have knowledge of  <strong>VTEX (IO & CMS)</strong>, <strong>Shopify</strong>, <strong>Node JS</strong>, <strong>PHP</strong>, <strong>Bootstrap</strong> and others technologies.
 </p>
 
 <p>Visit <a target="_blank" href="https://guilhermerocha.dev.br/">my portfolio</a> for more details about me.</p>
